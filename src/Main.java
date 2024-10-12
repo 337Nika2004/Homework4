@@ -37,6 +37,7 @@ public class Main {
             }
         }
         // Задача 4
+
         int age4 = 21;
         if (age4 >= 2 && age4 <= 6) {
             System.out.println("Задача 4");
